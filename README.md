@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Awad</h1>
+<h3 align="center">.NET Developer</h3>
 
-<!--
-**MohamedAwad10/MohamedAwad10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+💻 .NET Developer specialized in building scalable backend systems using ASP.NET Core  
+🧠 Passionate about Clean Architecture, CQRS, and high-performance applications  
+🔁 Previously worked with Spring Boot and Java backend technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### 🔹 Backend (.NET)
+- ASP.NET Core (Web API, MVC)
+- Entity Framework Core
+- SQL Server
+
+### 🔹 Backend (Java / Spring)
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- RESTful APIs
+- My SQL
+
+### 🔹 Architecture & Patterns
+- Clean Architecture
+- Repository, Unit of Work
+
+### 🔹 Tools
+- Git & GitHub
+- Postman
+
+---
+
+## 📌 Featured Projects
+
+### 🏋️ Gym Management System
+🔹 ASP.NET Core MVC application with full system modules
+🔹 Implemented member, trainer, and subscription management
+🔹 Dashboard & reporting system for analytics  
+🔹 Role-based management for users and admins
+
+---
+
+🛒 E-Commerce Backend (Spring Boot)
+🔹 Developed a RESTful e-commerce backend using Spring Boot
+🔹 Implemented JWT-based authentication using Spring Security
+🔹 Built a custom JWT filter for request validation and security integration
+🔹 Designed APIs for product, user, and order management
+🔹 Tested and validated APIs using Postman
+
+## 📫 Contact Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-awad-a0362b33a
+- 📧 Email: mohamed.awad0005@gmail.com
+
+---
+
+⭐ From [Mohamed Awad](https://github.com/MohamedAwad10)
