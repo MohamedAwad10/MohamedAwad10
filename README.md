@@ -36,6 +36,14 @@
 
 ## 📌 Featured Projects
 
+### 🗂️ Administrative Management System
+🔹Built an internal web application to manage daily administrative workflows.
+🔹Implemented modules for correspondence (incoming/outgoing), missions, and leave requests.
+🔹Developed user authentication (login & registration) with a notification system for all users.
+🔹Used SQL Server for data storage, designed to run securely within a local network.
+
+---
+
 ### 🏋️ Gym Management System
 🔹 ASP.NET Core MVC application with full system modules
 🔹 Implemented member, trainer, and subscription management
@@ -44,7 +52,7 @@
 
 ---
 
-🛒 E-Commerce Backend (Spring Boot)
+### 🛒 E-Commerce Backend (Spring Boot)
 🔹 Developed a RESTful e-commerce backend using Spring Boot
 🔹 Implemented JWT-based authentication using Spring Security
 🔹 Built a custom JWT filter for request validation and security integration
